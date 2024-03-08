@@ -1,0 +1,6 @@
+C:\Users\Илья\source\repos\TOPOP\bin\Debug\TOPOP.exe.config
+C:\Users\Илья\source\repos\TOPOP\bin\Debug\TOPOP.exe
+C:\Users\Илья\source\repos\TOPOP\bin\Debug\TOPOP.pdb
+C:\Users\Илья\source\repos\TOPOP\obj\Debug\TOPOP.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\TOPOP\obj\Debug\TOPOP.exe
+C:\Users\Илья\source\repos\TOPOP\obj\Debug\TOPOP.pdb
